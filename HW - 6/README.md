@@ -31,7 +31,7 @@
 
 
 Меняю права пользователя в разделе "Безопасность" объект "RECOVERY"
-<image src="img/Вызов журнала.png" alt="wind">
+<image src="img/Разрешения.png" alt="wind">
 
 Для Linux <br>
 Создаю  директрорию recovery
